@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Signal OS
 
 A simple Streamlit app template for you to modify!
 
